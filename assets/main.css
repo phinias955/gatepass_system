@@ -1,0 +1,26 @@
+.txt-formart{
+    color: #000000;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase !important;
+}
+
+.txt-formart-2{
+    text-transform: uppercase !important;
+    color: #000000;
+    font-size: 14px;
+}
+.upline{
+    text-decoration: none;
+    color: blue;
+
+}
+.upcase{
+    text-transform: uppercase;
+}
+.upcase-2{
+    text-transform: capitalize !important;
+   
+}
